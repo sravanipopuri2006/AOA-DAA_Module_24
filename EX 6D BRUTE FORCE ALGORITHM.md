@@ -17,8 +17,8 @@ To write a python program using brute force method of searching for the given su
 ## Program:
 ```
 To implement the program using brute force method of searching for the given substring in the main string.
-Developed by: Saravanan PV
-Register Number: 212223230195
+Developed by: Karthick Raja K
+Register Number: 212223240066
 ```
 ```py
 def match(string,sub):
